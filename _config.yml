@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zachary Needell"
+  name             : "Zachary A. Needell"
   avatar           : "zach.png"
   bio              : "Recent PhD in Transportation from MIT"
   location         : "Cambridge, MA"
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zach-needell/"
   orcid            : "https://orcid.org/0000-0001-6190-5186"
   pinterest        :
   soundcloud       :
