@@ -34,7 +34,7 @@ Work experience
   
 Skills
 ======
-* Matlab, Python, C++, R
+* Matlab, Python, C++, R, FORTRAN
 * Biogeme
 * Cube, TransCAD, ArcGIS, qGIS
 
