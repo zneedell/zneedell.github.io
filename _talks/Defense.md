@@ -1,7 +1,7 @@
 ---
 title: "Modeling personal vehicle energy consumption for electrification and decarbonization"
 collection: talks
-type: "Talk"
+type: "Dissertation Defense"
 permalink: /talks/Defense
 venue: "MIT"
 date: 2018-08-14
