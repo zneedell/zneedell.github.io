@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version available [here](http://zneedell.github.io/files/Needell_CV.pdf)
+[PDF version available here](http://zneedell.github.io/files/Needell_CV.pdf)
 
 Education
-======
+------
 * B.S. in Physics, Haverford College, 2011
 * M.S. in Transportation, Massachusetts Institute of Technology, 2015
 * Ph.D in Transportation, Massachusetts Institute of Technology, 2018
 
 Work experience
-======
+------
 * 2016 - 2018: Researcher -- TRIPOD
   * Part of MIT team working on ARPA-E Grant
   * Developed energy model for smartphone app and detailed simulation of Boston
@@ -33,13 +33,13 @@ Work experience
   * Developed software tools to categorize crater degradation and sand grain shape
   
 Skills
-======
+------
 * Matlab, Python, C++, R, FORTRAN
 * Biogeme
 * Cube, TransCAD, ArcGIS, qGIS
 
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
