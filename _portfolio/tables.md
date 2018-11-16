@@ -1,6 +1,6 @@
 ---
 title: "Optimal wedding seating arrangements"
-excerpt: "Optimize table assigments for seating at a wedding or other even using simulated annealing. <br/><img src='/images/tables.png' width='200'>"
+excerpt: "Optimize table assigments for seating at a wedding or other event using simulated annealing. <br/><img src='/images/tables.png' width='300'>"
 collection: portfolio
 ---
 
