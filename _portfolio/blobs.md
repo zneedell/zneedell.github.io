@@ -1,6 +1,6 @@
 ---
 title: "Correlated percolation demo"
-excerpt: "Interactive matlab demo of correlated percolation<br/><img src='/images/bikeshare.png'>"
+excerpt: "Interactive matlab demo of correlated percolation<br/><img src='/images/blobs.png'>"
 collection: portfolio
 ---
 
