@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version available [here](http://zneedell.github.io/files/PRE_1002.4841.pdf)
+PDF version available [here](http://zneedell.github.io/files/Needell_CV.pdf)
 
 Education
 ======
