@@ -12,7 +12,7 @@ redirect_from:
 ![Longfellow Bridge and the Red Line](images/longfellow.jpg "Photo collection of Brian J Cudahy")
 
 
-This is my personal website. It has some projects that I've worked on and information about me. It is also still under construction, so please forgive the incompleteness. I am currently on the job market--please feel free to get in touch!
+This is my personal website. It has some projects that I've worked on and information about me. It is also still under construction, so please forgive the incompleteness.
 
 Academic and Professional Interests
 ------
